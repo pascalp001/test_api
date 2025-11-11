@@ -3,5 +3,5 @@ databaseChangeLog:
       file: produit.sql
       relativeToChangelogFile: true
   - include:
-      file: db/changelog/categorie.yaml
+      file: categorie.yaml
       relativeToChangelogFile: true
