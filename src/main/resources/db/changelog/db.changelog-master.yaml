@@ -1,6 +1,6 @@
 databaseChangeLog:
   - include:
-      file: produit.sql
+      file: produit.yaml
       relativeToChangelogFile: true
   - include:
       file: categorie.yaml
