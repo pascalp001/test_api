@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: produit.sql
+      relativeToChangelogFile: true
+  - include:
+      file: db/changelog/categorie.yaml
+      relativeToChangelogFile: true
